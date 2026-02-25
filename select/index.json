@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "base_track": "VLad III",
+  "base_artist": "AVACLUB",
+  "createdAt": "2026-02-25T06:48:33.301076Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Vlad III",
+      "artist": "Sanseverino",
+      "has_synced": false,
+      "path": "select/01_Vlad_III_Sanseverino.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "VLad III",
+      "artist": "AVACLUB",
+      "has_synced": false,
+      "path": "select/pl_01_VLad_III_AVACLUB.txt"
+    }
+  ]
+}
